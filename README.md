@@ -1,18 +1,64 @@
-# Vincent Tran
+# 👋 Hi, I'm Vincent Tran
 
-EECS Undergraduate Student at UC Berkeley (Class of 2029, Regents' and Chancellor's Scholar).
+```c++
+for (int i = 0 ; i < n ; i++) {
+    // do something cool (efficiently)
+}
+```
 
-Awards
-- USACO Platinum
-- AIME Qualifier
-- Experience in C++, Python, Java, x86-64, C#, Typescript, Swift.
-- Previous work in:
-    - Dynamic systems in MATLAB | Designed frameworks for modelling DNA methylation using mean field approximation. Concluded parameter intervals where approximate models of 20x more CpG sites were accurate.
-    - Kernal optimiazaition of K-means | Revised the K-means algorithm using Kernel Fusion (KF). Eliminates unecessary data movement added by the Intel GEMM matrix routines by merging related matrix operations at assembly level.
-- Projects:
-    - Linear equation solver in x86 assembly: Developed from scratch. Managed registers, memory, and stack pointer flow. Naive row reduction written in x86 assembly interfaced with C. Debugged in Visual Studio 2019.
-    - Multithreaded Tic-Tac-Toe in Java: Developed a GUI version of Tic-Tac-Toe in Java using threads. Abstracted server, client, and game threads that communicated with Java's built-in data streams. Managed asynchronous variables and threads. 
-- Interests: Algorithms and optimization, Distributed systems, Networks, Very Large Scale Integration (VLSI)
+🎓 **EECS Undergraduate @ UC Berkeley (Class of 2029)**  
+🎖 *Regents' and Chancellor's Scholar*
+
+---
+
+## 🏆 Awards & Distinctions
+
+- **USACO Platinum Division** (2022)
+- **AIME Qualifier** (2022-2023)
+- **Regents' and Chancellor's Scholarship Recipient** (2025)
+
+---
+
+## 💻 Languages & Technologies
+
+C++ · Python · Java · x86-64 Assembly · C# · TypeScript · Swift
+
+---
+
+## 🔬 Research Experience
+
+### 🧬 DNA Methylation Modeling (MATLAB)
+- Developed a dynamic mean field approximation framework simulating large-scale epigenetic behavior.
+- Identified stable parameter regions for accurate modeling of methylation dynamics across 20× more CpG sites.
+
+### ⚙️ Optimizing K-Means via Kernel Fusion
+- Reworked K-means clustering with **assembly-level kernel fusion**.
+- Eliminated redundant memory overhead from Intel GEMM routines by merging matrix ops at a low level.
+
+---
+
+## 🧪 Projects
+
+### 🧮 Linear Equation Solver in x86 Assembly
+- Built from scratch using naive row-reduction.
+- Managed register/memory behavior and stack pointer logic consistent with C calling convention.
+- Debugged via Visual Studio 2019.
+
+### 🎮 Multithreaded Networked Tic-Tac-Toe (Java)
+- Designed a GUI with client-server multithreading.
+- Leveraged Java data streams and synchronized state sharing.
+- Implemented clean thread isolation for game, client, and server logic.
+
+---
+
+## 🚀 Interests
+
+Algorithms & Optimization · Distributed Systems · Networking ·  
+Hardware-Aware Software · VLSI (Very Large Scale Integration)
+
+---
+
+📫 Let's connect or collaborate — feel free to check out my repos!
 
 <!---
 Resetz/Resetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
