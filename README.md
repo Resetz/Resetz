@@ -8,6 +8,7 @@ for (int i = 0 ; i < n ; i++) {
 
 🎓 **EECS Undergraduate @ UC Berkeley (Class of 2029)**  
 🎖 *Regents' and Chancellor's Scholar*
+📫 vincent.samuel.tran [at] berkeley [dot] edu
 
 ---
 
